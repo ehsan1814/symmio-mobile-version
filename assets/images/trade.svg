@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="Monitor-Graph-Line--Streamline-Ultimate" height="24" width="24">
+  <desc>
+    Monitor Graph Line Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path d="M0.5 16V3.5A1.5 1.5 0 0 1 2 2h20a1.5 1.5 0 0 1 1.5 1.5V16Z" fill="#9feaff" stroke-width="1"></path>
+  <path d="M19 2H2A1.5 1.5 0 0 0 0.5 3.5V16H5Z" fill="#dff9ff" stroke-width="1"></path>
+  <path d="M0.5 16h23v2.5A1.5 1.5 0 0 1 22 20H2a1.5 1.5 0 0 1 -1.5 -1.5Z" fill="#ffffff" stroke-width="1"></path>
+  <path d="m5 22.004 14 0" fill="none" stroke="#00303e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="m11.5 20.004 0 2" fill="none" stroke="#00303e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="m0.5 16.004 23 0" fill="none" stroke="#00303e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="M2 2.004h20s1.5 0 1.5 1.5v15s0 1.5 -1.5 1.5H2s-1.5 0 -1.5 -1.5v-15s0 -1.5 1.5 -1.5" fill="none" stroke="#00303e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="m0.5 13.004 5.75 -5.75 4 4L14 7.504" fill="none" stroke="#00303e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="m19.125 5.504 0 -1" fill="none" stroke="#00303e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="M20.625 5.5h-2.033a1.342 1.342 0 0 0 -0.5 2.587l2.064 0.825a1.342 1.342 0 0 1 -0.5 2.588h-2.031" fill="none" stroke="#00303e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  <path d="m19.125 12.504 0 -1" fill="none" stroke="#00303e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+</svg>
